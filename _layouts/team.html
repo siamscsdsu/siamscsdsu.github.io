@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="container">
+    <div class="row mt-3">
+        <div class="col-lg-12 text-center">
+            <h3 class="display-4 mb-4 article-headline">Meet the SIAM Student Chapter Executive Board 2023-2024</h3>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-md-12 col-lg-8 text-center">
+            <p class="page-content">Want to get involved in leadership? Please feel free to reach out to any executive member for more information!</p>
+        </div>
+    </div>
+    <div class="row mt-3">
+        {% for member in site.people %}
+        <div class="col-sm-4">
+            <div class="team-member">
+                <img src="assets/images/team/{{ member.pic }}.jpg" class="rounded-circle" alt="" width="150">
+                <h4>{{ member.name }}</h4>
+                <p class="text-muted">{{ member.position }}</p>
+                <p class="text-muted">{{ member.email }}</p>
+                <a href="{{ member.linkedin }}" class="btn btn-dark">LinkedIn</a>
+
+                <!-- <ul class="list-inline social-buttons">
+                    {% for network in member.social %}
+                    <li>
+                        <a href="{{ network.url }}">
+                            <i class="fa fa-{{ network.title }}"></i>
+                        </a>
+                    </li>
+                    {% endfor %}
+
+                </ul> -->
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

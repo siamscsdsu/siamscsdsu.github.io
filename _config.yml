@@ -1,0 +1,83 @@
+# Site
+name: 'SIAM Student Chapter SDSU'
+description: 'Society of industrial and Applied Mathematicians'
+logo: 'assets/images/logo.png'
+# favicon: 'assets/images/favicon.ico'
+# baseurl: "/"
+# baseurl: "https://siamscsdsu.github.io"
+email: 'wowthemesnet@gmail.com'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+# Team names, titles and social links
+people:
+- name: Ashley Schwartz
+  pic: 1
+  position: President
+  email: avschwartz@sdsu.edu
+  linkedin: https://www.linkedin.com/in/ashleyvsch/
+
+- name: Hayden Frye
+  pic: missing
+  position: Vice President
+  email: hfrye@sdsu.edu
+  linkedin: 
+
+- name: Christing Cho
+  pic: missing
+  position: Treasurer
+  email: ccho0148@sdsu.edu
+  linkedin: 
+
+- name: Eric Maravilla
+  pic: missing
+  position: Secretary
+  email: emaravilla@sdsu.edu
+  linkedin: 
+
+- name: Audrey Oliver
+  pic: missing
+  position: Communication
+  email: akoliver@sdsu.edu
+  linkedin: 
+
+- name: Dr. Jose Castillo
+  pic: missing
+  position: Faculty Advisor
+  email: jcastillo@sdsu.edu
+  linkedin: 
+
+ 
+# Defaults
+defaults:
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
