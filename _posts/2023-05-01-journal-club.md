@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spooky Journal Club"
+title:  "End of Year Journal Club!"
 image: assets/images/posts/generic-journal-club.png
 ---
 
