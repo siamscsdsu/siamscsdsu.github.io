@@ -77,7 +77,7 @@ description: "The Society for Industrial and Applied Mathematicians Student Chap
 
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
-<!-- {% if post.tags contains "sticky" %} -->
+{% if post.tags contains "sticky" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-grey position-relative">
     {% assign latest_post = site.posts[0] %}
     <div class="pl-4 pr-0 h-100 tofront">
