@@ -9,5 +9,5 @@ Please join SIAM Student Chapter, SDSU for our Fall 2023 kick-off meeting on Sep
 Come meet fellow graduate students and join us in making a plan for fall meeting events and fun!
 
 - Google form to join SIAM Student Chapter, SDSU 2023-2024 can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScCSPn-9fsrqYz4QKoYaAJS5tfHef7iv1WnsD9rcaG5Odhdbg/viewform?usp=sf_link). 
-- Please email us for the Discord link or scan the QR code at the next meeting!
+- Please email us for the Discord link or scan the QR code (see an executive member) at the next meeting!
 

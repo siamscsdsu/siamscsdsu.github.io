@@ -15,7 +15,7 @@ Please send your message to {{site.name}}. We will reply as soon as possible! Co
 
 _Thinking about joining?_
 
-Feel free to attend any of the annouced events to see if SIAM Student Chapter, SDSU is right for you! Any SDSU student welcome!
+Feel free to attend any of the annouced events to see if SIAM Student Chapter, SDSU is right for you! All SDSU students are welcome!
 
 _Ready to join?_
 
