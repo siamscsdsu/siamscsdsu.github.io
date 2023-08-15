@@ -2,41 +2,47 @@
 layout: default
 ---
 
+
 <div class="container">
-    <div class="row mt-3">
-        <div class="col-lg-12 text-center">
-            <h3 class="font-weight-bold spanborder" >Meet the SIAM Student Chapter Executive Board 2023-2024</h3>
-        </div>
-    </div>
-    <div class="row mt-3">
-    <div class="col-lg-12 text-center">
-            <p class = "article-post">
-                Want to get involved in leadership? Please feel free to reach out to any executive member for more information!
-            </p>
-    </div>
-</div>
-    <div class="row mt-3">
-        {% for member in site.people %}
-        <div class="col-sm-4">
-            <div class="team-member">
-                <img src="assets/images/team/{{ member.pic }}.jpg" class="rounded-circle" alt="" width="150">
-                <h4>{{ member.name }}</h4>
-                <p class="text-muted">{{ member.position }}</p>
-                <p class="text-muted">{{ member.email }}</p>
-                <!-- <a href="{{ member.linkedin }}" class="btn btn-dark">LinkedIn</a> -->
+    <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
 
-                <!-- <ul class="list-inline social-buttons">
-                    {% for network in member.social %}
-                    <li>
-                        <a href="{{ network.url }}">
-                            <i class="fa fa-{{ network.title }}"></i>
-                        </a>
-                    </li>
-                    {% endfor %}
+    <div class="row">
 
-                </ul> -->
+        <div class="col-md-8">
+            <!-- the content -->
+            <mypage class="mypage-post">    
+                <h2>{{page.headline}}</h2> 
+                <p>{{page.excerpt}}</p>
+            </mypage>
+
+            <!-- the team -->
+            <div class="row mt-3">
+                {% for member in site.people %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="assets/images/team/{{ member.pic }}.jpg" class="rounded-circle" alt="" width="150">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                        <!-- <p class="text-muted">{{ member.email }}</p> -->
+                        <a class="text-link" href="mailto:{{ member.email }}">{{ member.email }}</a>
+                        <!-- <a href="{{ member.linkedin }}" class="btn btn-dark">LinkedIn</a> -->
+                    </div>
+                </div>
+                {% endfor %}
             </div>
+
+            <mypage class="mypage-post">                
+                {{ content }}                
+            </mypage>
         </div>
-        {% endfor %}
-    </div>
-</div>
+
+
+        <!-- sidebar -->
+        <div class="col-md-4">
+            {% include main-sidebar.html %}
+        </div>
+
+    <!-- close row -->
+    </div>  
+<!-- close containter -->
+</div> 

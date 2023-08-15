@@ -1,0 +1,34 @@
+<div class="sticky-top sticky-top-offset">
+
+    {% if page.image %} 
+    <img class="card-img-top mb-5" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
+    {% endif %} 
+    <h4 class="font-weight-bold spanborder"><span>Affiliations</span></h4>
+
+    <ol class="list-featured">	
+        <!-- first affliliation -->
+        <li class="mb-4">
+        <span>
+            <h6 class="font-weight-bold">
+                <a href="https://www.csrc.sdsu.edu/csrc/" class="text-dark">Computational Science Research Center</a>
+            </h6>
+            </span>
+        </li>                
+        <!-- second affiliation -->
+        <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="https://www.siam.org/" class="text-dark">Society for Industrial and Applied Mathematicians</a>
+                </h6>
+            </span>
+        </li>    
+        <!-- third affiliation -->
+        <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="https://www.sdsu.edu/" class="text-dark">San Diego State University</a>
+                </h6>
+            </span>
+        </li>     
+    </ol>
+    </div>

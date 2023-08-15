@@ -1,6 +1,6 @@
 # Site
-name: 'SIAM Student Chapter SDSU'
-description: 'Society of industrial and Applied Mathematicians'
+name: 'SIAM Student Chapter, SDSU'
+description: 'Society for Industrial and Applied Mathematicians Student Chapter at San Diego State University'
 logo: 'assets/images/logo.png'
 # favicon: 'assets/images/favicon.ico'
 # baseurl: "/"
@@ -26,13 +26,13 @@ people:
   linkedin: https://www.linkedin.com/in/ashleyvsch/
 
 - name: Hayden Frye
-  pic: missing
+  pic: hayden
   position: Vice President
   email: hfrye@sdsu.edu
   linkedin: 
 
 - name: Christine Cho
-  pic: missing
+  pic: christine
   position: Treasurer
   email: ccho0148@sdsu.edu
   linkedin: 
@@ -44,13 +44,13 @@ people:
   linkedin: 
 
 - name: Audrey Oliver
-  pic: missing
-  position: Communication
+  pic: audrey
+  position: Special Events Planner
   email: akoliver@sdsu.edu
   linkedin: 
 
 - name: Dr. Jose Castillo
-  pic: missing
+  pic: jose
   position: Faculty Advisor
   email: jcastillo@sdsu.edu
   linkedin: 

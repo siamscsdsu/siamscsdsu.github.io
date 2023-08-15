@@ -822,3 +822,73 @@ div.a2a_full_footer {display:none;}
 .team-member p {
     margin-top: 0;
 }
+
+custom {
+	font-size:20px;
+	line-height:1.86;
+    font-family:Lora;
+	text-align: center;
+}
+.custom-headline {
+    font-family: Georgia,Times,"Times New Roman",serif;
+    font-size: 2.2rem;
+    font-weight: 400;
+	text-align: center;
+    line-height: 1.15;
+    color: #222222;
+}
+.custom-post {
+	text-align: center;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+custom p,custom pre,custom figure,custom img,custom iframed,custom embed {
+	margin-bottom:2rem;
+}
+/* custom:first-letter {
+	line-height:1;
+	margin:0 .2em 0 0;
+	vertical-align:top;
+} */
+custom h1,custom h2,custom h3,custom h4,custom h5,custom h6,custom.h1,custom .h2,custom .h3,custom .h4,custom .h5,custom .h6 {
+	margin-bottom:2rem;
+	margin-top:2rem;
+	font-weight:600;
+}
+
+mypage {
+	font-size:20px;
+	line-height:1.86;
+    font-family:Lora;
+}
+.mypage-headline {
+    font-family: Georgia,Times,"Times New Roman",serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.15;
+    color: #222222;
+}
+mypage blockquote {
+	padding-left:40px;
+	margin-left:0px;
+	font-style:italic;
+	position:relative;
+}
+mypage blockquote:before {
+	content:"“";
+	font-family:Georgia;
+	font-size:8rem;
+	margin:-1rem 2rem 0 -3.9rem;
+	position:absolute;
+	opacity:1;
+	float:left;
+	line-height:1;
+}
+mypage p,mypage pre,mypage figure,mypaget img,mypage iframed,about embed {
+	margin-bottom:2rem;
+}
+mypage h1,mypage h2,mypage h3,mypage h4,mypage h5,mypage h6,mypage.h1,mypage .h2,mypage .h3,mypage .h4,mypage .h5,mypage .h6 {
+	margin-bottom:2rem;
+	margin-top:2rem;
+	font-weight:600;
+}
