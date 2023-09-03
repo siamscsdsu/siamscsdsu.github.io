@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In Case You Missed It: Alumni Panel 2019"
-image: assets/images/posts/2019-02-19.jpg
+image: assets/images/posts/2019-02-11.jpg
 ---
 
 In case you missed our meeting on Friday, February 8th, 2019, we hosted our second annual alumni panel. We heard from four recently graduated students on their experience in academia, industry, and government positions.

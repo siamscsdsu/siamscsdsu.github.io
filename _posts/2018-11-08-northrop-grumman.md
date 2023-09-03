@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In Case You Missed It: Inside the Life–Northrop Grumman"
-image: assets/images/posts/2018-11-02.png
+image: assets/images/posts/2018-11-08.png
 ---
 
 In case you missed our meeting on Wednesday, November 7th, 2018, we hosted Catherine Meyn, Corporate Director of Programs at Northrop Grumman.
