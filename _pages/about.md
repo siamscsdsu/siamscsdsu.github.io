@@ -41,4 +41,4 @@ Listed below are the intended activities and goals for the San Diego State Unive
 
 #### Membership 
 
-SIAM Student Chapter, SDSU membership is open to all enrolled SDSU students interested in SIAM, regardless of major, please [contact us](/contact.html) to join. Membership to the national SIAM organization is provided to all SIAM Student Chapter SDSU member **free of charge** [(join today)](https://www.siam.org/Membership/Join-SIAM)! We strongly encourage all members to take advantage of this national membership as SIAM provides many exceptional opportunities for students and those looking to take the next step in their career. 
+SIAM Student Chapter, SDSU membership is open to all enrolled SDSU students interested in SIAM, regardless of major, please [contact us](/contact.html) to join. Membership to the national SIAM organization is provided to all SIAM Student Chapter SDSU member **free of charge**! We strongly encourage all members to take advantage of this national membership as SIAM provides many exceptional opportunities for students and those looking to take the next step in their career. Check out the [join page](/join.html) for more information.
