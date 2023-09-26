@@ -37,11 +37,11 @@ people:
   email: cscho@sdsu.edu
   linkedin: https://www.linkedin.com/in/christine-s-cho
 
-# - name: Delaney Farrell
-#   pic: missing
-#   position: Secretary
-#   email: 
-#   linkedin: 
+- name: Christian Quiroz
+  pic: christian
+  position: Secretary
+  email: cquiroz8279@gmail.com
+  linkedin: https://www.linkedin.com/in/christian-quiroz-58827b212
 
 - name: Audrey Oliver
   pic: audrey
@@ -53,7 +53,7 @@ people:
   pic: jose
   position: Faculty Advisor
   email: jcastillo@sdsu.edu
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/jose-castillo-901a481/
 
  
 # Defaults
