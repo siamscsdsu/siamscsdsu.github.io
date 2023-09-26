@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sppoky Journal Club"
+title:  "Spooky Journal Club"
 image: assets/images/posts/2022-10-15-spooky-journal-club.png
 ---
 
