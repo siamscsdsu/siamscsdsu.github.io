@@ -1,7 +1,7 @@
 # Site
-name: 'SIAM Student Chapter, SDSU'
+name: 'SIAM Student Chapter at SDSU'
 description: 'Society for Industrial and Applied Mathematicians Student Chapter at San Diego State University'
-logo: 'assets/images/logo.png'
+# logo: 'assets/images/logo.png'
 # favicon: 'assets/images/favicon.ico'
 # baseurl: "/"
 # baseurl: "https://siamscsdsu.github.io"
