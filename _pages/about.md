@@ -5,7 +5,7 @@ permalink: "/about.html"
 image: "assets/images/SIAMSCSDSU_logo.png"
 ---
 
-## Society for Industrial and Applied Mathematicians (SIAM) Student Chapter at San Diego State University (SDSU)
+## Society for Industrial and Applied Mathematics (SIAM) Student Chapter at San Diego State University (SDSU)
 
 <hr>
 

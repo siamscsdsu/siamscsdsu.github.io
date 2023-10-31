@@ -17,7 +17,7 @@ Please [email us](mailto:siamscsdsu@gmail.com) requesting to join SIAM Student C
 
 ## SIAM Student Membership
 
-Membership to the international Society for Industrial and Applied Mathematicians Chapter is free for SIAM Student Chapter, SDSU members. Some benefits of membership are:
+Membership to the international Society for Industrial and Applied Mathematics Chapter is free for SIAM Student Chapter, SDSU members. Some benefits of membership are:
 
 - Free membership in two SIAM activity groups
 - Subscription to SIAM News
