@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "November Journal Club"
+title:  "February Journal Club"
 image: assets/images/posts/2024-02-05.jpeg
 ---
 
