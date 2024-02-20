@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A City on Mars Colloquium"
-image: assets/images/posts/2024-02-19.pdf
+image: assets/images/posts/2024-02-19.jpeg
 ---
 
 Please join the SDSU SIAM Chapter for a colloquium talk from Zach Weinersmith. Zach will be chatting about his new book **A City on Mars** where we will learn all about what it would be like to love in space. Come for fun, snacks, and coffee!
