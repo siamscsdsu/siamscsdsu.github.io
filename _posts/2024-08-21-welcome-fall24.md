@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome Fall 2024!"
-image: assets/images/posts/2024-08-21.png
+image: assets/images/posts/2024-08-22.png
 ---
 
 SIAM Student Chapter, SDSU welcomes all new student and new executive board members for the 2024-2025 school year! We are excited to share information about our club during the Computational Science Research Center CSRC/SIAM New Student Orientation on August 22, 2024. 
