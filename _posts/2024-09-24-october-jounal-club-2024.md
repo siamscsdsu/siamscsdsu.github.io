@@ -4,7 +4,7 @@ title:  "October Journal Club"
 image: assets/images/posts/2024-09-24.png
 ---
 
-Please join SIAM Student Chapter, SDSU for our first journal club of the semester! We will be discussing an interesting perspective paper from _SIAM News_ on Stochastic Approach Examines Disease Emergence in a Seasonally Varying Environment. Come for the discussion, to chat to fellow students, and for the free pizza - first come, first serve!
+Please join SIAM Student Chapter, SDSU for our October Journal Club! We will be discussing an interesting perspective paper from _SIAM News_ on Stochastic Approach Examines Disease Emergence in a Seasonally Varying Environment. Come for the discussion, to chat to fellow students, and for the free pizza - first come, first serve!
 
 - __Date__:   October 3, 2024
 - __Time__:   7 p.m.
