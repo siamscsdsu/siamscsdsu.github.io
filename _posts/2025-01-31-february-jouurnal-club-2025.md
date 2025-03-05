@@ -4,7 +4,7 @@ title:  "February Journal Club"
 image: assets/images/posts/2025-01-31.png
 ---
 
-Please join SIAM Student Chapter, SDSU for our November Journal Club! We will be discussing an interesting perspective paper from _SIAM News_ on Navier-Stokes Equations and Mimetic Operators. Come for the discussion, to chat to fellow students, and for the free pizza - first come, first serve!
+Please join SIAM Student Chapter, SDSU for our February Journal Club! We will be discussing an interesting perspective paper from _SIAM News_ on Navier-Stokes Equations and Mimetic Operators. Come for the discussion, to chat to fellow students, and for the free pizza - first come, first serve!
 
 - __Date__:   February 6, 2025
 - __Time__:   6 p.m.
