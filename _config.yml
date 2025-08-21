@@ -20,31 +20,31 @@ plugins:
 # Team names, titles and social links
 people:
 - name: Daisy Ulloa
-  pic: daisy-1
+  pic: daisy
   position: President
   email: dulloa3712@sdsu.edu
   linkedin: https://www.linkedin.com/in/daisyu/
 
 - name: Christine Cho
-  pic: christine-1
+  pic: christine
   position: Vice President
   email: ccho0148@sdsu.edu
   linkedin: https://www.linkedin.com/in/christine-s-cho/
 
 - name: Juan S. Carrillo
-  pic: seb-1
+  pic: seb
   position: Treasurer
   email: jcarrillo5698@sdsu.edu
   linkedin: https://www.linkedin.com/in/juan-s-carrillo/
 
 - name: Mingshuo Liu
-  pic: mingshuo-1
+  pic: mingshuo
   position: Secretary
   email: mliu4036@sdsu.edu
   linkedin: https://www.linkedin.com/in/mingshuo-liu-4210511b8/
 
 - name: Gianni Pucillo
-  pic: gianni-1
+  pic: gianni
   position: Public Relations
   email: gpucillo4016@sdsu.edu
   linkedin: https://www.linkedin.com/in/gianni-pucillo-451a27294/
