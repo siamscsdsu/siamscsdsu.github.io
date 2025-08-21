@@ -20,7 +20,7 @@ plugins:
 # Team names, titles and social links
 people:
 - name: Daisy Ulloa
-  pic: Daisy
+  pic: daisy
   position: President
   email: avschwartz@sdsu.edu
   linkedin: https://www.linkedin.com/in/ashleyvsch/
@@ -31,7 +31,7 @@ people:
   email: hfrye1604@sdsu.edu
   linkedin: https://www.linkedin.com/in/hayden-frye-940b0b176/
 
-- name: Audrey Oliver
+- name: Juan S. Carrillo
   pic: audrey
   position: Treasurer
   email: akoliver@sdsu.edu
