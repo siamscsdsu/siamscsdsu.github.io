@@ -20,7 +20,7 @@ plugins:
 # Team names, titles and social links
 people:
 - name: Daisy Ulloa
-  pic: daisy
+  pic: daisy1
   position: President
   email: dulloa3712@sdsu.edu
   linkedin: https://www.linkedin.com/in/daisyu/
@@ -32,7 +32,7 @@ people:
   linkedin: https://www.linkedin.com/in/christine-s-cho/
 
 - name: Juan S. Carrillo
-  pic: seb
+  pic: seb1
   position: Treasurer
   email: jcarrillo5698@sdsu.edu
   linkedin: https://www.linkedin.com/in/juan-s-carrillo/
