@@ -8,16 +8,16 @@ SIAM Student Chapter, SDSU welcomes all new student and new executive board memb
 
 Regular SIAM meetings will be social journal clubs on the first thursday of every month in addition to colloquium coffee every Friday. If you would like to join SIAM SC for this school year, we would love to have you! To join, please fill out the following Google Form:
 
-[Google Form Link to Join!](https://docs.google.com/forms/d/e/1FAIpQLScYhTxKbATP28kAg3cqzdmt0K6uWrVsKONBXZlqgpXdk9e6aw/viewform)
+[Google Form Link to Join!](https://docs.google.com/forms/d/e/1FAIpQLSddd_wQ5CzpuDHbO73epnjn9Dix_y4sCFjoAL-iArUeZipmEw/viewform)
 
 To learn more about the events we have planned this year and to learn more about the club, please check out our welcome slides:
 
-[Fall 2024 Welcome Slides!](https://docs.google.com/presentation/d/1KtLQ76aAztb6yv-5AItqL1KR84ma7n5JRzOtutTdVqQ/edit?usp=sharing)
+[Fall 2025 Welcome Slides!](https://docs.google.com/presentation/d/1juekXhR8FWMkP2t54OrfkB4kjmTZTYJt4v6ABQiMa2g/edit?slide=id.g3643de84529_2_50#slide=id.g3643de84529_2_50)
 
 ## SIAM SC September Journal Club
 
 Save the date! Join us for our first journal club! Official announcement coming soon. 
 
-- __Date__:   September 5, 2025
-- __Time__:   7 p.m.
+- __Date__:   September 4, 2025
+- __Time__:   6 p.m.
 - __Place__:  Woodstock's Pizza, 6145 El Cajon Blvd
