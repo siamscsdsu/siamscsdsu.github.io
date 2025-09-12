@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "September General Meeting + Biweekly Update"
+image: assets/images/posts/2025-09-12.png
 
 ---
 
