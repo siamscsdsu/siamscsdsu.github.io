@@ -5,7 +5,7 @@ title:  "World Series Mini Competition + Quick Update"
 
 ---
 
-It’s time to let the numbers swing for the fences—bring your best ideas and out-hit the odds.
+It’s time to let the numbers swing for the fences, bring your best ideas and out-hit the odds.
 
 We’re hosting a **mini competition** at this week’s meeting. On **Thursday**, we’ll provide the dataset and the rules. You’ll have **5 days** (due **Tuesday, October 21, 2025**) to submit your World Series rankings along with the **mathematical reasoning** behind your choices. The winner will receive a treat at our next **Journal Club meeting** (Thursday, November 6). We can help with any data handling/coding you need.
 
