@@ -12,7 +12,9 @@ We’re hosting a **mini competition** at this week’s meeting. On **Thursday**
 
 - __Date__:   October 16, 2025
 - __Time__:   7:00–7:30 p.m
-- __Place__:  https://sdsu.zoom.us/meetings/86061440082/invitations?signature=Zc3y1tvYpwUhbZsNWGSsiHC2fxPwiDubbM7T7aZwwI4
+- __Place__:  [Click to go to Zoom](https://sdsu.zoom.us/meetings/86061440082/invitations?signature=Zc3y1tvYpwUhbZsNWGSsiHC2fxPwiDubbM7T7aZwwI4)
+
+
 
 Congratulations to our new Secretary **Angelina Jordan**
 
