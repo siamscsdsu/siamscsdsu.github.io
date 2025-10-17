@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "World Series Mini Competition + Quick Update"
-#image: assets/images/posts/2025-09-12.png
+image: assets/images/posts/2025-10-16.png
 
 ---
 
