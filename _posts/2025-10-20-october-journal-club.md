@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "October Journal Club"
-image: assets/images/posts/2025-10-30.png
+image: assets/images/posts/2025-10-30b.png
 ---
 
 Please join SIAM Student Chapter, SDSU for our October Journal Club! We will be discussing an interesting perspective paper from _SIAM News_ on The Mathematics of TBD. Come for the discussion, to chat to fellow students, and for the free pizza - first come, first serve!
