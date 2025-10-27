@@ -9,7 +9,7 @@ Please join SIAM Student Chapter, SDSU for our October Journal Club! We will be 
 - __Date__:   Noviembre 6, 2025
 - __Time__:   6 p.m.
 - __Place__:  Woodstock's Pizza, 6145 El Cajon Blvd
-- __Article (TBD)__:  [Click here!](TBD)
+- __Article (TBD)__:  [Click here!](https://www.siam.org/publications/siam-news/articles/digital-twins-of-the-earth-system-via-hybrid-physics-ai-models/)
 
 If you are unable to access the paper for any reason or have any other questions, please feel free to reach out to us at [siamscsdsu@gmail.com](mailto:siamscsdsu@gmail.com). We can send over a PDF of the article if needed. We look forward to seeing you there!
 
