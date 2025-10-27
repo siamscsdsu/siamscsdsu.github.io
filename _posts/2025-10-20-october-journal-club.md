@@ -6,7 +6,7 @@ image: assets/images/posts/2025-10-30b.png
 
 Please join SIAM Student Chapter, SDSU for our October Journal Club! We will be discussing an interesting perspective paper from _SIAM News_ on The Mathematics of TBD. Come for the discussion, to chat to fellow students, and for the free pizza - first come, first serve!
 
-- __Date__:   October 30, 2025
+- __Date__:   Noviembre 6, 2025
 - __Time__:   6 p.m.
 - __Place__:  Woodstock's Pizza, 6145 El Cajon Blvd
 - __Article (TBD)__:  [Click here!](TBD)
