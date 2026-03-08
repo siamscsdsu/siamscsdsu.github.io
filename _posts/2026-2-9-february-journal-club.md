@@ -4,7 +4,7 @@ title:  "February Journal Club"
 image: assets/images/posts/2026-02-11.png
 ---
 
-Please join SIAM Student Chapter, SDSU for our October Journal Club! We will be discussing an interesting perspective paper from _SIAM News_ on Real-time Bayesian Inference With Full Physics Models: A Digital Twin for Tsunami Early Warning. Come for the discussion, to chat to fellow students, and for the free pizza - first come, first serve!
+Please join SIAM Student Chapter, SDSU for our February Journal Club! We will be discussing an interesting perspective paper from _SIAM News_ on Real-time Bayesian Inference With Full Physics Models: A Digital Twin for Tsunami Early Warning. Come for the discussion, to chat to fellow students, and for the free pizza - first come, first serve!
 
 - __Date__:   February 11, 2026
 - __Time__:   12-1 p.m.
