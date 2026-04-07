@@ -11,7 +11,7 @@ We will be discussing an exciting article titled _Decoding the Neural Enigma: Di
 - __Date__:   April 8, 2026
 - __Time__:   12-1 p.m.
 - __Place__:  Hepner Hall 128
-- __Article__: [https://www.siam.org/publications/siam-news/articles/decoding-the-neural-enigma-digital-twins-of-neurons-revolutionize-brain-research/] Decoding the Neural Enigma: Digital Twins of Neurons Revolutionize Brain Research
-- __RSVP__:  [https://docs.google.com/forms/u/1/d/e/1FAIpQLSfbEnN66zd7SmQ01h51CvNV1txnq11EJ3TAs-Mty1xOZhnn9g/viewform?usp=publish-editor](LINK)
+- __Article__: [Decoding the Neural Enigma: Digital Twins of Neurons Revolutionize Brain Research](https://www.siam.org/publications/siam-news/articles/decoding-the-neural-enigma-digital-twins-of-neurons-revolutionize-brain-research/)
+- __RSVP__:  [Link](https://docs.google.com/forms/u/1/d/e/1FAIpQLSfbEnN66zd7SmQ01h51CvNV1txnq11EJ3TAs-Mty1xOZhnn9g/viewform?usp=publish-editor)
 
 For more information, please check out our website and reach out if you have any questions. We look forward to seeing you there!
