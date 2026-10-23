@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mathematics of Zombies"
-image: assets/images/posts/2026-10-27.png
+image: assets/images/posts/2026-10-25.png
 ---
 
 Please join SIAM Student Chapter, AWM, and the SDSU Math Club for **“Mathematics of Zombies,”** a fun and interactive activity using mathematics and epidemic models to predict a zombie outbreak.
